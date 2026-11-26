@@ -17,4 +17,4 @@ A clean, responsive frontend prototype designed to help users quickly locate, fi
 
 ## 🛠️ Built With
 - **Design & Prototyping:** Figma
-- **Frontend:** HTML5, CSS3, Bootstrap
+- **Frontend:** HTML, CSS, Bootstrap
